@@ -1,4 +1,4 @@
-# java-penilaianMahasiswa
+# Sistem Penilaian Mahasiswa
 
 ## Preview
 ![preview](https://user-images.githubusercontent.com/52988155/103477560-a2948980-4df2-11eb-8c97-f87baeebf2ca.png)
