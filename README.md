@@ -1,7 +1,7 @@
 # java-penilaianMahasiswa
 
 ## Preview
-[![Preview](https://farid-maulana.github.io/java-penilaianMahasiswa/blob/main/img/preview.png)](https://farid-maulana.github.io/java-penilaianMahasiswa/blob/main/img/preview.png)
+[![Preview](https://github.com/farid-maulana/java-penilaianMahasiswa/blob/main/img/preview.png](https://github.com/farid-maulana/java-penilaianMahasiswa/blob/main/img/preview.png)
 
 ## Built With
 
